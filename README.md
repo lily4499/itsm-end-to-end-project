@@ -65,6 +65,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 3. Open the catalog through the available module or portal.
 4. Confirm catalog categories or items are visible and can be opened (such as hardware, software, and services).
 5. Capture a screenshot of the catalog landing page.
+<img width="1914" height="724" alt="image" src="https://github.com/user-attachments/assets/9f7b7347-cec2-422c-959a-ad8be7a1df62" />
 
 **Expected:** Service Catalog opens without an access or load error.
 
@@ -74,6 +75,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 3. Confirm the incident list loads.
 4. Open an existing training incident if authorized.
 5. Capture the list and relevant form fields.
+<img width="1904" height="843" alt="image" src="https://github.com/user-attachments/assets/2a6eb20e-ee55-4c6a-a0a7-0ec0aefea9c0" />
 
 **Expected:** Incident records can be viewed at the access level assigned to the account.
 
@@ -82,6 +84,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 2. Open the available **Problems / All** list.
 3. Confirm existing problem records can be listed or an authorized **New** action is shown.
 4. Capture evidence.
+<img width="1906" height="845" alt="image" src="https://github.com/user-attachments/assets/fc9b834d-25d8-4b9a-9dda-3baefe3ea4d6" />
 
 **Expected:** Problem Management is available to the assigned user.
 
@@ -91,6 +94,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 3. Check for change types such as Normal, Standard, and Emergency.
 4. Confirm change requests can be viewed, and the approved creation path is available if permitted.
 5. Capture evidence.
+<img width="1883" height="789" alt="image" src="https://github.com/user-attachments/assets/0660ef39-042c-49c6-966d-3e5212b9d9d4" />
 
 **Expected:** The Change Management module loads without errors.
 
@@ -111,6 +115,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 6. Note the resulting **REQ** number and, if displayed, **RITM** number.
 7. Open the submitted request in **My Requests** or **Service Catalog > Open Records > Requests**.
 8. Capture the submission confirmation.
+<img width="1913" height="571" alt="image" src="https://github.com/user-attachments/assets/b6631f39-84fb-4790-813f-d05b4af3bfeb" />
 
 **Expected:** A request is created and can be found by its record number.
 
@@ -121,6 +126,8 @@ The exact menu may differ by instance, role, and installed applications. Search 
 4. Fill in required values and submit.
 5. Open **My Requests** and locate the new request.
 6. Record its REQ/RITM references.
+<img width="1890" height="919" alt="image" src="https://github.com/user-attachments/assets/5e81c4ac-19ac-4020-891a-8e6195ca0a3d" />
+
 
 **Expected:** Employee Center accepts the request and displays its tracking record.
 
@@ -133,6 +140,12 @@ The exact menu may differ by instance, role, and installed applications. Search 
 6. Return to the request / requested item and refresh.
 7. Confirm the approval status changed and fulfillment progressed as configured.
 8. Capture before-and-after status screenshots.
+<img width="1881" height="915" alt="image" src="https://github.com/user-attachments/assets/9eee7ad7-3587-4327-9946-e0ecaa6d5c7a" />
+
+---
+
+<img width="1868" height="829" alt="image" src="https://github.com/user-attachments/assets/1dbc5b7f-ffef-462b-8a52-f6d015210efa" />
+
 
 **Expected:** Routing occurs based on the catalog item's configured flow, the authorized approver can act, and the request reflects the result.
 
@@ -144,6 +157,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 5. If allowed, add a safe **Work note** such as `Request received; confirming assigned fulfillment team.`
 6. Save / Update and refresh to verify the note is retained.
 7. Capture the updated record.
+<img width="1898" height="852" alt="image" src="https://github.com/user-attachments/assets/717434c5-ada4-4230-b709-7c9fc58a2454" />
 
 **Expected:** Authorized service-desk staff can view request details and save permitted updates.
 
@@ -162,6 +176,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 3. Select the RITM record.
 4. Confirm the item name, requested-for person, approval, assignment, and current stage/state.
 5. Record the RITM number and capture a screenshot.
+<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/146b2241-2375-41c4-9a4d-7ea0f897fd6a" />
 
 **Expected:** The RITM is linked to its parent request and contains accurate details.
 
@@ -172,6 +187,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 4. If authorized, take ownership, add a work note, and move the task through appropriate states.
 5. Complete only work actually performed in the training scenario; save the task.
 6. Check whether the RITM stage changes after task completion.
+<img width="1890" height="888" alt="image" src="https://github.com/user-attachments/assets/be97bc5e-98a5-4549-ba3f-f90df777181a" />
 
 **Expected:** Configured fulfillment tasks are linked to the RITM and can be updated by an authorized fulfiller.
 
@@ -180,6 +196,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 2. Check status before approval, after approval, and after fulfillment.
 3. Compare displayed states with your eBook's expected values.
 4. Capture final state and record the outcome.
+<img width="1889" height="815" alt="image" src="https://github.com/user-attachments/assets/dd1ed6b8-7a08-4b93-a10f-c522c167df63" />
 
 **Expected:** Request and item status accurately reflects the configured workflow. REQ and RITM states need not use the same wording.
 
@@ -201,6 +218,8 @@ The exact menu may differ by instance, role, and installed applications. Search 
 7. Save by selecting **Submit** or **Save**.
 8. Record the `INC` number and reopen the incident to verify saved fields.
 9. Capture the incident form.
+<img width="1896" height="848" alt="image" src="https://github.com/user-attachments/assets/003565c2-440a-4b9b-a5dc-a26b9cf2a6ef" />
+
 
 **Suggested example values** (use the eBook values if provided):
 
@@ -224,6 +243,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 4. Add a **Work note**: `Initial checks completed. Network team assistance required to investigate repeated wireless authentication failures.`
 5. Save and check the new assignment and updated activity history.
 6. Capture the escalation evidence.
+<img width="1899" height="950" alt="image" src="https://github.com/user-attachments/assets/10ae00fb-e190-4674-bf5e-9774ae898dd6" />
 
 **Expected:** The incident is routed to the responsible team, with justification documented.
 
@@ -240,6 +260,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 2. Inspect **Caller**, **Short description**, **Description**, **Impact**, **Urgency**, **Priority**, **Assigned to**, **Assignment group**, and **State** where displayed.
 3. Add a work note documenting a permitted diagnostic step, such as verifying the device's connection and testing the network.
 4. Save; confirm the activity log shows the update.
+<img width="1891" height="704" alt="image" src="https://github.com/user-attachments/assets/31a56163-ecf9-486c-886a-781847387bd8" />
 
 **Expected:** The incident's information and history are visible and accurate.
 
@@ -280,6 +301,8 @@ The exact menu may differ by instance, role, and installed applications. Search 
 5. Fill in the required assignment and service / CI fields specified by the lab.
 6. Save and record the `PRB` number.
 7. Link relevant incident records using **Related Incidents** or equivalent.
+<img width="1899" height="786" alt="image" src="https://github.com/user-attachments/assets/a2bfed64-ca86-4e07-becb-e69c6abfcf51" />
+
 
 **Expected:** A problem exists and relevant incidents are linked.
 
@@ -289,6 +312,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 3. Record a hypothesis, such as `Recent wireless configuration may have introduced an authentication mismatch`.
 4. Assign investigation to the responsible team.
 5. Save and verify work notes, assignment, and current state.
+<img width="1899" height="930" alt="image" src="https://github.com/user-attachments/assets/625398d9-35fe-45d5-998d-6c13e11b06a2" />
 
 **Expected:** The problem includes meaningful initial assessment and an assigned investigation owner.
 
@@ -308,6 +332,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 5. Record a temporary workaround if one was verified, for example using a wired connection.
 6. If the diagnosis is confirmed, fill **Root cause** and applicable **Workaround** fields.
 7. Save, inspect state, and capture evidence.
+<img width="1900" height="893" alt="image" src="https://github.com/user-attachments/assets/5f957653-c4f4-46cf-909c-74d90ac6c3ca" />
 
 **Expected:** The record contains the diagnosis, supporting findings, and workaround if applicable. Never describe an unverified hypothesis as a confirmed root cause.
 
@@ -318,6 +343,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 4. Document test results and final root cause.
 5. Move the problem through the states permitted by the configured workflow; resolve or close it only when its closure criteria are satisfied.
 6. Save and capture the final record and linked change reference.
+<img width="1900" height="876" alt="image" src="https://github.com/user-attachments/assets/b4be66e7-2d60-4725-9302-0562e0ba9592" />
 
 **Expected:** The problem is updated with a validated solution and its final state follows the configured lifecycle.
 
@@ -331,7 +357,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 
 ### TC040101 — Create and schedule a change
 1. Navigate to **All > Change > Create New**, or create a change from the related PRB if permitted.
-2. Select **Normal Change** for a change that requires assessment and approval (unless the eBook specifies otherwise).
+2. Select **Normal Change** for a change that requires assessment and approval 
 3. Enter **Short description**: `Correct corporate Wi-Fi authentication configuration`.
 4. Add **Description**: `Standardize wireless authentication settings to address validated connection failures.`
 5. Select the relevant **Service** / **Configuration item (CI)** and assignment group when required.
@@ -354,6 +380,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 - **Test plan:** What will demonstrate success?
 - **Backout plan:** How will the old configuration be restored if testing fails?
 - **Risk / Impact:** What could break, and how many users could be affected?
+<img width="1905" height="879" alt="image" src="https://github.com/user-attachments/assets/3adac290-eded-451c-b843-80677d217f11" />
 
 **Expected:** A CHG record is created with planned timing and implementation safeguards.
 
@@ -364,6 +391,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 3. Verify the selected CI identifies the system being changed.
 4. Update the CI reference or relevant CI information only when the eBook requires it and you are authorized.
 5. Save; confirm risk and CI references are retained.
+<img width="1903" height="886" alt="image" src="https://github.com/user-attachments/assets/c6dee404-ffac-4f3c-b1d2-70805486fb49" />
 
 **Expected:** Risk information and the affected CI are documented accurately. CI updates are not the same as editing the CI database arbitrarily.
 
@@ -374,6 +402,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 4. Ask the designated authorized approver to review and approve within the lab workflow (or use the assigned test role if explicitly allowed).
 5. Refresh the CHG and verify approval state and audit trail.
 6. Do not implement the change before the approval required by the workflow is granted.
+<img width="1910" height="926" alt="image" src="https://github.com/user-attachments/assets/27bce195-6e76-4d8b-a0b6-593d1b22097a" />
 
 **Expected:** Approval and authorization are documented before implementation.
 
@@ -393,6 +422,7 @@ The exact menu may differ by instance, role, and installed applications. Search 
 5. Assign each task to its designated group or technician.
 6. Update work notes and task state as work is completed and verified.
 7. Capture the task list and task status.
+<img width="1881" height="894" alt="image" src="https://github.com/user-attachments/assets/b1b5f3fa-76bd-4ee9-865c-451e6315553f" />
 
 **Expected:** Change tasks are linked to the parent CHG and accurately reflect completed work.
 
@@ -409,101 +439,9 @@ The exact menu may differ by instance, role, and installed applications. Search 
 
 ---
 
-## Verification Matrix
 
-Use **Pass**, **Fail**, or **Blocked** after performing each action. Blank statuses mean not yet verified.
-
-| Test ID | Verification | Result | Evidence |
-|---|---|---|---|
-| TC010101 | Service Catalog available | Not tested | `screenshots/01-itsm-applications.png` |
-| TC010102 | Incident application available | Not tested | `screenshots/01-itsm-applications.png` |
-| TC010103 | Problem application available | Not tested | `screenshots/01-itsm-applications.png` |
-| TC010104 | Change application available | Not tested | `screenshots/01-itsm-applications.png` |
-| TC020101 | Submit Service Catalog request | Not tested | `screenshots/02-catalog-request.png` |
-| TC020102 | Submit Employee Center request | Not tested | `screenshots/03-employee-center-request.png` |
-| TC020103 | Request routing and approval | Not tested | `screenshots/04-request-approval.png` |
-| TC020104 | Service Desk request updates | Not tested | `screenshots/04-request-approval.png` |
-| TC020201 | Requested item visible | Not tested | `screenshots/05-requested-item-and-task.png` |
-| TC020202 | Requested item tasks visible | Not tested | `screenshots/05-requested-item-and-task.png` |
-| TC020203 | Request state updates | Not tested | `screenshots/05-requested-item-and-task.png` |
-| TC030101 | Incident creation | Not tested | `screenshots/06-incident-created.png` |
-| TC030102 | Incident escalation | Not tested | `screenshots/07-incident-escalated.png` |
-| TC030201 | Incident data and history | Not tested | `screenshots/08-incident-related-records.png` |
-| TC030202 | Related record creation | Not tested | `screenshots/08-incident-related-records.png` |
-| TC030203 | Incident resolution | Not tested | `screenshots/09-incident-resolved.png` |
-| TC030301 | Problem creation | Not tested | `screenshots/10-problem-created.png` |
-| TC030302 | Problem assessment | Not tested | `screenshots/10-problem-created.png` |
-| TC030401 | Problem diagnosis | Not tested | `screenshots/11-problem-diagnosis.png` |
-| TC030402 | Problem solution and closure | Not tested | `screenshots/12-problem-closed.png` |
-| TC040101 | Change creation and scheduling | Not tested | `screenshots/13-change-created.png` |
-| TC040102 | Risk and CI updates | Not tested | `screenshots/14-change-risk-and-ci.png` |
-| TC040103 | Change authorization | Not tested | `screenshots/15-change-approved.png` |
-| TC040201 | Change tasks | Not tested | `screenshots/16-change-tasks.png` |
-| TC040202 | Change completion and closure | Not tested | `screenshots/17-change-closed.png` |
-
-**Note:** Evidence links are filenames to populate after collecting screenshots; they are not included in this starter README. Replace filenames if you use different captures. To embed an image in GitHub Markdown, use `![Description](screenshots/filename.png)` after the file exists.
-
-## Example IT Support Work Notes (copy only when accurate)
-
-| Record | Example work note |
-|---|---|
-| Request / RITM | `Catalog item reviewed; awaiting configured approval and fulfillment assignment.` |
-| SCTASK | `Device preparation started; hardware and access checks pending validation.` |
-| Incident | `Verified user cannot authenticate to corporate Wi-Fi; wired connection succeeds. Escalated for network investigation.` |
-| Problem | `Compared multiple incidents; reviewing wireless policy changes as a possible root cause.` |
-| Change | `Implementation and validation steps documented. Awaiting required authorization before execution.` |
-
-Only paste a note that truthfully describes work you performed or observed in the training instance.
-
-## Troubleshooting Missing Buttons or Modules
-
-| What you see | What to check |
-|---|---|
-| **Employee Center** not available | Check if the module is provisioned; use the eBook-prescribed interface; mark Blocked if unavailable |
-| No **Approve** button | Verify that the current account is an assigned, authorized approver and the record is awaiting approval |
-| No **Catalog Tasks** | Verify that the catalog item has the proper fulfillment flow and that required approval is complete |
-| No **Create Problem** action | Look for related-record actions or create a new Problem and link the incident, if permitted |
-| No **Risk Assessment** | Verify normal/emergency change type, state, role, and that risk assessment is configured |
-| Change Task read-only | Check task ownership, role, and change state; do not override permissions |
-| Cannot close problem or change | Check mandatory fields, outstanding tasks, approvals, and required state transitions |
-
-## Results and Lessons Learned
-
-*Complete this section after running the labs.*
-
-- **Test cases executed:** ___ / 25
-- **Passed:** ___
-- **Failed:** ___
-- **Blocked:** ___
-- **Created records:** REQ ___, RITM ___, INC ___, PRB ___, CHG ___
-- **Workflow observations:** ___
-- **Issues / troubleshooting:** ___
-- **Skills demonstrated:** ITSM navigation, structured ticket documentation, request fulfillment, service restoration, investigation, authorized change tracking.
 
 ## Value to IT Operations
 
 This portfolio project demonstrates how to document service requests and disruptions, route work to the correct teams, maintain auditable approvals, connect incidents to long-term problem investigations, and close controlled changes only after validation. It models a service desk focused on traceability, customer impact, and responsible operational change.
 
-## GitHub Evidence Convention
-
-After capturing screenshots, upload files into the `screenshots/` folder and use Markdown image links in the appropriate lab section, for example:
-
-```markdown
-![Incident created in ServiceNow](screenshots/06-incident-created.png)
-```
-
-Do not insert broken image links before the screenshot actually exists. Use sanitized training evidence only.
-
-## References
-
-- Course eBook: Labs 1.2.1, 2.3.1, 2.3.2, 3.2.1, 3.2.2, 3.3.1, 3.3.2, 4.2.1, 4.2.2 (test objectives supplied by the learner)
-- [ServiceNow Track a request from the service catalog](https://www.servicenow.com/docs/r/it-service-management/procurement/t_TrackReqFromServiceCatalog.html)
-- [ServiceNow Create a record from incident](https://www.servicenow.com/docs/r/it-service-management/incident-management/t_PromoteAnIncident.html)
-- [ServiceNow Create a problem](https://www.servicenow.com/docs/r/it-service-management/problem-management/create-a-problem-v2.html)
-- [ServiceNow Create a change request](https://www.servicenow.com/docs/r/it-service-management/change-management/t_CreateAChange.html)
-- [ServiceNow Perform risk assessment](https://www.servicenow.com/docs/r/it-service-management/change-management/t_AssessRisk.html)
-- [ServiceNow Create a change task](https://www.servicenow.com/docs/r/it-service-management/change-management/create-a-change-task.html)
-
----
-
-*Documentation based on simulated training scenarios. Product names belong to their respective owners. Do not share production or personal information in screenshots.*
